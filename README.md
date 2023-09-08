@@ -18,7 +18,7 @@
 
 - Conversion from E/R Diagram to Relation (Relational Database)
   
-- Normalization & Implemented Functionality (Create/Delete/Edit/Display)
+- Normalization & Implemented Functionality (Create/Delete/Edit/Display/Update)
   
 - Website for User Interface 
 
