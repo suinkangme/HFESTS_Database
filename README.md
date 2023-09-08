@@ -1,5 +1,5 @@
 
-## HFESTS_Database 
+## Health Facility Employee Status Tracking System
 : Hackathon_McWICS is the annual hackathon run by the McGill Women in Computer Science. 
 
 <br>
