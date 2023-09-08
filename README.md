@@ -4,13 +4,13 @@
 
 <br>
 
-<h4>[ Duration ]🙋‍</h4>
+<h4>[ Duration ]</h4>
 - Jan 9th, 2023 to April 11th, 2023 (2023 Winter, COMP 353)
 
 <br>
 <br>
 
-<h4> Contributors </h4>
+<h4> [ Contributors ]🙋‍</h4>
 
 | NAME |
 | --- |  
