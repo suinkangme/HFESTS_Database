@@ -37,9 +37,7 @@
 
 - Developed php pages for the user interface 
 
-- Create/Delete/Edit/Display a Vaccines
-
-- Create/Delete/Edit/Display a Vaccinated
+- Create/Delete/Edit/Display a Vaccines & Vaccinated Tables
 
 - Wrote the quries below
 
