@@ -20,11 +20,13 @@
   
 - Website for User Interface 
 
+<br>
 
 <h4>[ Technical Skills ]</h4>
 
 - SQL, MySQL Workbench, DBMS, Relational Database, HTML/CSS, PHP, Visual Studio
 
+<br>
 
 <h4>[ My Contribution to Project ]</h4>
 
@@ -67,10 +69,6 @@ The results should be displayed in
 ascending order by the date of the emails.
 
 >Create Email Log
-
-
-
-
 
 
 <br>
