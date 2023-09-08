@@ -20,8 +20,6 @@
   
 - Website for User Interface 
 
-<br>
-<br>
 
 <h4>[ Technical Skills ]</h4>
 
