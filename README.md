@@ -7,10 +7,25 @@
 - Jan 9th, 2023 to April 11th, 2023 (2023 Winter, COMP 353)
 
 <br>
+<br>
+
+<h4>[💡Main Tasks We Performed💡]</h4>
+- Express the Health Facility Employee Status Tracking System HFESTS in the E/R model (ER-diagram design)
+- Conversion from E/R Diagram to Relation (Relational Database)
+- Normalization & Implemented Functionality (Create/Delete/Edit/Display) 
+- Website for User Interface 
+
+<br>
+<br>
+
+<h4>[ Technical Skills ]</h4>
+
+- SQL, MySQL Workbench, DBMS, Relational Database, HTML/CSS, PHP, Visual Studio
+
+<br>
+<br>
 
 <h4>[ My Contribution to Project ]</h4>
-
-
 
 
 - Designed the initial E/R diagram
