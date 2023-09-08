@@ -23,7 +23,6 @@
 - SQL, MySQL Workbench, DBMS, Relational Database, HTML/CSS, PHP, Visual Studio
 
 <br>
-<br>
 
 <h4>[ My Contribution to Project ]</h4>
 
