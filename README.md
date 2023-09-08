@@ -2,12 +2,10 @@
 ## Health Facility Employee Status Tracking System
 : Hackathon_McWICS is the annual hackathon run by the McGill Women in Computer Science. 
 
-<br>
 
 <h4>[ Duration ]</h4>
 - Jan 9th, 2023 to April 11th, 2023 (2023 Winter, COMP 353)
 
-<br>
 <br>
 
 <h4>[ My Contribution to Project ]</h4>
@@ -49,7 +47,7 @@ ascending order by the date of the emails.
 
 
 
-
+<br>
 
 
 <h4> [ Contributors ]🙋‍</h4>
