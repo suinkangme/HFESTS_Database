@@ -1,7 +1,6 @@
 
 ## Health Facility Employee Status Tracking System
-: Hackathon_McWICS is the annual hackathon run by the McGill Women in Computer Science. 
-
+: Database system, helping health care facilities to keep track of their employees’ health status during the COVID-19 pandemic.
 ***<span style="color:green">The codes posted in Github are done by Suin Kang and they are part of the whole project</span>***
 
 
