@@ -4,7 +4,6 @@
 
 ***<span style="color:green">The codes posted in Github are part of the whole project done by Suin Kang</span>***
 
-<br>
 
 <h4>[ Duration ]</h4>
 - Jan 9th, 2023 to April 11th, 2023 (2023 Winter, COMP 353)
