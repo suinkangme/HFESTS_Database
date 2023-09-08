@@ -15,7 +15,8 @@
 - Create/Delete/Edit/Display a Vaccines
 - Create/Delete/Edit/Display a Vaccinated
 
-- Wrote the quries below ~ 
+- Wrote the quries below
+  
 > Get details of all the facilities in the system.
 Details include facility’s name, address, city,
 province, postal-code, phone number, web
