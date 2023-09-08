@@ -5,7 +5,7 @@
 ***<span style="color:green">The codes posted in Github are part of the whole project done by Suin Kang</span>***
 
 
-<h4>[ Duration ]</h4>
+<h4>[ 💡Duration💡 ]</h4>
 - Jan 9th, 2023 to April 11th, 2023 (2023 Winter, COMP 353)
 
 <br>
@@ -24,13 +24,13 @@
 
 <br>
 
-<h4>[ Technical Skills ]</h4>
+<h4>[ 💡Technical Skills💡 ]</h4>
 
 - SQL, MySQL Workbench, DBMS, Relational Database, HTML/CSS, PHP, Visual Studio
 
 <br>
 
-<h4>[ My Contribution to Project ]</h4>
+<h4>[ 🎯My Contribution to Project🎯 ]</h4>
 
 - Designed the initial E/R diagram
 
