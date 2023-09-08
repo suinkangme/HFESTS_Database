@@ -2,7 +2,7 @@
 ## Health Facility Employee Status Tracking System
 : Hackathon_McWICS is the annual hackathon run by the McGill Women in Computer Science. 
 
-***The codes posted in Github are part of the whole project done by Suin Kang***
+<span style="color:green">***The codes posted in Github are part of the whole project done by Suin Kang***</span>
 
 
 <h4>[ Duration ]</h4>
