@@ -67,12 +67,11 @@ ascending order by the date of the emails.
 
 >Create Email Log
 
+<br>
 
-<br>
-<br>
+* The codes posted in Github are part of the whole project done by Suin Kang *
 
 <h4> [ Other Contributors to Original Project]🙋‍</h4>
-( the codes posted in Github are part of the whole project done by Suin Kang )
 - Hyun Soo Kim, Sarah Michelle Ang, Sooah Kil 
 
 <br>
