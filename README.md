@@ -11,8 +11,11 @@
 
 <h4>[💡Main Tasks We Performed💡]</h4>
 - Express the Health Facility Employee Status Tracking System HFESTS in the E/R model (ER-diagram design)
+
 - Conversion from E/R Diagram to Relation (Relational Database)
-- Normalization & Implemented Functionality (Create/Delete/Edit/Display) 
+  
+- Normalization & Implemented Functionality (Create/Delete/Edit/Display)
+  
 - Website for User Interface 
 
 <br>
@@ -22,7 +25,6 @@
 
 - SQL, MySQL Workbench, DBMS, Relational Database, HTML/CSS, PHP, Visual Studio
 
-<br>
 
 <h4>[ My Contribution to Project ]</h4>
 
